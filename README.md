@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm [Seixas](https://github.com/Seixas), a brazilian Developer and a SAP ABAP Consultant
+
+For more than 5 years in professional contact with SAP and Development in general, my goal is to stay in touch and use the newest technologies ✨  
+Passionate about AI and a hobbyist for Unreal Engine 4 and Unity, I love the game development area.
+- 🌱 I’m currently learning and practicing AI, ML and DL  
+- 👯 I’m looking to collaborate on Data Science projects  
+- 🔭 I’m currently working on an open source Data Science project, end to end implementation, soon to be published  
+  
+- 📫 How to reach me: [Personal Website/Blog](https://seixas.dev/) and [LinkedIn](https://www.linkedin.com/in/seixasdev/)
 <!--
 **Seixas/Seixas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
